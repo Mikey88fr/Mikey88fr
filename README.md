@@ -32,4 +32,4 @@ If you'd like to chat, collaborate, or just share a spooky story, I'd love to he
 
 📧 **Email**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
 
-Vox Populi (social links coming soon).
+![Bluesky](SOCIALS/bluesky-social-logo-png_seeklogo-514621.png) [@the-esoteric.bsky.social]([mailto:the-king@the-esoteric.com.au](https://bsky.app/profile/the-esoteric.bsky.social))
