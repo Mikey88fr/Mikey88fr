@@ -32,4 +32,4 @@ If you'd like to chat, collaborate, or just share a spooky story, I'd love to he
 
 📧 **Email**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
 
-![Bluesky](SOCIALS/bluesky-icon.png) [@the-esoteric.bsky.social](https://bsky.app/profile/the-esoteric.bsky.social))
+![Bluesky](SOCIALS/bluesky-icon.png) [@the-esoteric.bsky.social](https://bsky.app/profile/the-esoteric.bsky.social)
