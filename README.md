@@ -1,9 +1,9 @@
-![PFP](PFP_REF/Git_Prime.jpeg)
+![pfp](assets\git_prime.jpeg)
 
 
 # Mikey88fr
 
-Welcome to my GitHub profile! 🚀
+Welcome to my GitHub profile! 
 
 If you're here by accident, no worries—feel free to browse around. If you're here on purpose, great! Let's see what we can build together.
 
@@ -30,6 +30,4 @@ A community-focused bot designed to streamline content moderation and repetitive
 
 If you'd like to chat, collaborate, or just share a spooky story, I'd love to hear from you!
 
-📧 **Email**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
-
-![Bluesky](SOCIALS/bluesky-icon.png) [@the-esoteric.bsky.social](https://bsky.app/profile/the-esoteric.bsky.social)
+ **Email**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
