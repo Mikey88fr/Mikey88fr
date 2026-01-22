@@ -1,4 +1,4 @@
-![pfp](assets\git_prime.jpeg)
+![pfp](assets/git_prime.jpeg)
 
 
 # Mikey88fr
