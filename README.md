@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" width="800"
+<img src="assets/header.png" width="800" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=9370DB&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER)](https://git.io/typing-svg)
 
