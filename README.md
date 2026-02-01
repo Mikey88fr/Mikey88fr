@@ -3,7 +3,9 @@
 # 𓃶 Mikey88fr
 **[STATUS: UNVERIFIED HUMAN] | [LOCATION: MELBOURNE]**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=FF4500&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER)](https://git.io/typing-svg)
+<img src="assets/header_purple.png" width="800" alt="Mikey88fr Header">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=9370DB&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER)](https://git.io/typing-svg)
 
 </div>
 
