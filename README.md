@@ -15,7 +15,7 @@
 ### I. MANIFESTO
 **STATUS:** `NON_COMPLIANT`
 
-> "I am a professional navigating the rapid ██████ shifts of AI. While the machine predicts the next word, I am building the spaces it cannot understand. Logic is a tool; **wonder** is the objective. I refuse to be ██████ replaced by a simulation."
+> "I am a novice navigating the rapid ██████ shifts of AI. While the machine predicts the next word, I am building the spaces it cannot understand. Logic is a tool; **wonder** is the objective. I refuse to be ██████ replaced by a simulation."
 
 ---
 
@@ -23,10 +23,6 @@
 **Designation: THE_ESOTERIC**
 Purpose: ██████ blending art and tech. A digital canvas for **late-night radio** and the **unexplained**. Reclaiming the "weird" from the sanitized web.
 Status: `UNFILTERED`
-
-**Designation: VOX_POPULI**
-Purpose: A community-focused bot designed to ██████ repetitive tasks—returning time to the humans so they can actually **interact**.
-Status: `ACTIVE_INTERVENTION`
 
 ---
 
