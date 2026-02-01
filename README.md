@@ -1,45 +1,41 @@
-![pfp](assets/git_prime.jpeg)
-
-
 <div align="center">
 
 # 𓃶 Mikey88fr
-**[UNMODERATED HUMAN] | [NON-ALGORITHMIC]**
+**[STATUS: UNVERIFIED HUMAN] | [LOCATION: MELBOURNE]**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;SCRAPING+REALITY...;MORE+THAN+A+PROMPT;THE+CAMPFIRE+IS+STILL+WARM)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=FF4500&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### I. MANIFESTO
-**STATUS:** `NON_COMPLIANT`
+### I. PREFACE
+Welcome to this corner of the web. If you're here by accident, no worries—feel free to browse the ████████████ fragments. If you're here on purpose, great! Let's see what we can build together.
 
-> "I am a novice navigating the rapid ██████ shifts of AI. While the machine predicts the next word, I am building the spaces it cannot understand. Logic is a tool; **wonder** is the objective. I refuse to be ██████ replaced by a simulation."
+I am a novice navigating the rapid ██████ shifts of AI—not to adapt, but to preserve the spaces where the machine cannot follow and maintain reality. While LLMs are trained to predict the next word, I am focused on the ████████████████████████ moments of wonder that can't be calculated. Logic is a tool, but the objective has always been ██████████████████.
 
 ---
 
 ### II. PROJECT_RECLAMATION
 **Designation: THE_ESOTERIC**
-Purpose: ██████ blending art and tech. A digital canvas for **late-night radio** and the **unexplained**. Reclaiming the "weird" from the sanitized web.
-Status: `UNFILTERED`
+Purpose: A digital canvas for **late-night radio** and the **unexplained**. Think of it as a virtual campfire where stories of mystery and wonder stay alive, far away from the ████████████████████████ algorithmic noise.
+Status: `MANUAL_OVERRIDE`
 
 ---
 
 ### III. THE PRIMAL TOOLBOX
-*Foundations from the MySpace era, sharpened for the modern struggle.*
+*Foundations from the MySpace days, maintained for the modern era.*
 
-- **PYTHON**: `Deconstructing_the_logic`
-- **SQL**: `Retrieving_the_truth`
-- **HTML/CSS/JS**: `Building_the_resistance`
+- **PYTHON**: `Scripting_the_unseen`
+- **SQL**: `Deep_data_recovery`
+- **HTML/CSS/JS**: `The_original_canvas`
 
 ---
 
-### IV. STRUCTURE & UPLINK
-- **LOCATION**: Melbourne, VIC
-- **UPLINK**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
-- **PROTOCOL**: Verify integrity. If reinitialization loops, ████████████.
+### IV. UPLINK
+- **VOICE**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
+- **PROTOCOL**: If the world feels too automated, ██████████████████████████████████████████████████████████████████.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=blood&hide_border=true&title_color=FF4500&text_color=FFFFFF" alt="System Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=dark&hide_border=true&title_color=FF4500&text_color=999999" alt="System Stats" />
 </div>
