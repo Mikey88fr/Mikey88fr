@@ -1,12 +1,12 @@
-<p align="center">
-  <img src="assets/header.jpg" width="800" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=9370DB&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER" />
-  </a>
-</p>
+<img src="assets/header.png" width="800" />
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=9370DB&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -38,6 +38,8 @@ Status: `MANUAL_OVERRIDE`
 - **VOICE**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
 - **PROTOCOL**: If the world feels too automated, ████████████████████████████████████████████████.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF" alt="System Stats" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF" alt="System Stats" />
+
+</div>
