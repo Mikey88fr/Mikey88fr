@@ -1,33 +1,49 @@
 ![pfp](assets/git_prime.jpeg)
 
 
-# Mikey88fr
+<div align="center">
 
-Welcome to my GitHub profile! 
+# 𓃶 Mikey88fr
+**[UNMODERATED HUMAN] | [NON-ALGORITHMIC]**
 
-If you're here by accident, no worries—feel free to browse around. If you're here on purpose, great! Let's see what we can build together.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=1000&color=FF4500&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;SCRAPING+REALITY...;MORE+THAN+A+PROMPT;THE+CAMPFIRE+IS+STILL+WARM)](https://git.io/typing-svg)
 
-## About Me
+</div>
 
-I'm a professional currently navigating the rapid changes brought by AI and LLMs in my industry. While my position is secure, I'm driven to understand and adapt to these technologies—both to stay ahead in the workplace and to explore how they can complement human skills rather than replace them.
+---
 
-## Skills in Progress:
+### I. MANIFESTO
+**STATUS:** `NON_COMPLIANT`
 
-- **Python**: Learning the ropes.
-- **SQL**: Querying databases like a pro.
-- **JavaScript**: Building interactive experiences.
-- **HTML/CSS**: Brushing up on the fundamentals from my MySpace days.
+> "I am a professional navigating the rapid ██████ shifts of AI. While the machine predicts the next word, I am building the spaces it cannot understand. Logic is a tool; **wonder** is the objective. I refuse to be ██████ replaced by a simulation."
 
-## Featured Projects:
+---
 
-### The Esoteric (under development)
-My personal website, blending art and tech—a digital canvas for experimental projects like an underground, late-night radio show about the unexplained. Think of it as a virtual campfire where stories of mystery and wonder come alive.
+### II. PROJECT_RECLAMATION
+**Designation: THE_ESOTERIC**
+Purpose: ██████ blending art and tech. A digital canvas for **late-night radio** and the **unexplained**. Reclaiming the "weird" from the sanitized web.
+Status: `UNFILTERED`
 
-### Vox Populi (under development)
-A community-focused bot designed to streamline content moderation and repetitive tasks, giving community managers more time to engage and interact with their audiences.
+**Designation: VOX_POPULI**
+Purpose: A community-focused bot designed to ██████ repetitive tasks—returning time to the humans so they can actually **interact**.
+Status: `ACTIVE_INTERVENTION`
 
-## Connect with Me
+---
 
-If you'd like to chat, collaborate, or just share a spooky story, I'd love to hear from you!
+### III. THE PRIMAL TOOLBOX
+*Foundations from the MySpace era, sharpened for the modern struggle.*
 
- **Email**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
+- **PYTHON**: `Deconstructing_the_logic`
+- **SQL**: `Retrieving_the_truth`
+- **HTML/CSS/JS**: `Building_the_resistance`
+
+---
+
+### IV. STRUCTURE & UPLINK
+- **LOCATION**: Melbourne, VIC
+- **UPLINK**: [the-king@the-esoteric.com.au](mailto:the-king@the-esoteric.com.au)
+- **PROTOCOL**: Verify integrity. If reinitialization loops, ████████████.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=blood&hide_border=true&title_color=FF4500&text_color=FFFFFF" alt="System Stats" />
+</div>
