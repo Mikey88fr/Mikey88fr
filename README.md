@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.png" width="800" alt="Mikey88fr | Unverified Human">
+<img src="assets/header.png" width="800"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=2000&color=9370DB&center=true&vCenter=true&width=500&lines=COGNITIVE+RESISTANCE;THE+CAMPFIRE+IS+STILL+WARM;ANALOG+SOUL+IN+A+DIGITAL+VOID;WELCOME+TRAVELLER)](https://git.io/typing-svg)
 
@@ -17,6 +17,7 @@ I am a novice navigating the rapid ████████████ shifts o
 
 ### II. PROJECT_RECLAMATION
 **Designation: THE_ESOTERIC**
+
 Purpose: A digital canvas for the **unexplained**. Think of it as a virtual campfire where stories of mystery and wonder stay alive, far away from the ██████████████████ algorithmic noise.
 Status: `MANUAL_OVERRIDE`
 
