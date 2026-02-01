@@ -37,5 +37,7 @@ Status: `MANUAL_OVERRIDE`
 - **PROTOCOL**: If the world feels too automated, ████████████████████████████████████████████████.
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF" alt="System Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mikey88fr&show_icons=true&theme=tokyonight&hide_border=true&title_color=9370DB&text_color=FFFFFF" alt="System Stats" />
+
 </div>
